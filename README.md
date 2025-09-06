@@ -124,3 +124,11 @@ Pick ONE:
   - `feature/week-xx-topic`: per-task branches  
 
 - **Commits**
+- - **Progress Tracking**  
+Maintain `docs/weekly_log.md`:  
+```md
+## Week 05
+- ✅ Read Concrete Mathematics Ch. 3
+- ✅ Solved 3 DP problems
+- ✅ Implemented Binary Indexed Tree
+- 🚧 Started notes on generating functions
