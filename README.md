@@ -1,4 +1,4 @@
-# 🧭 CS Roadmap 2025
+# 🧭 The 24 Week Ascent
 
 A **24-week (6-month)** journey to build mastery in **Mathematics, DSA, System Design, AI/ML foundations, and DevOps/MLOps**.  
 This repository serves as both a **study tracker** and a **portfolio** of implementations, notes, and projects.  
